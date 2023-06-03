@@ -10,7 +10,6 @@ public class Main {
 
         list.showmeList();
         System.out.println();
-
         list.reverse(list).showmeList();
     }
 }
